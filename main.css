@@ -1,0 +1,26 @@
+#h1 { background-color: lightslategray}
+#p6 {background-color: aliceblue}
+#footer1 {background-color: aliceblue}
+#footer2 {background-color: aliceblue}
+#pleft {background-color: aliceblue}
+#pleft2 {background-color: aliceblue}
+#line { line-height:0em } 
+#h1 { font-family: "Times New Roman" }
+#h1 { font-size: xx-large}
+
+#p1 { font-family: "Times New Roman" }
+#p2 { font-family: "Times New Roman" }
+#p3 { font-family: "Times New Roman" }
+#p4 { font-family: "Times New Roman" }
+#p7 { font-family: "Times New Roman"}
+
+#image { position: absolute; top: 70px; left: 0px }
+
+#footer1 {position: absolute; bottom: 70px; left: 10px}
+#footer2 {position: absolute; bottom: 50px; left: 10px}
+#p6 { position: absolute; bottom: 100px;}
+#pleft { position: absolute; top: 195px; left: 10px}
+#list { position: absolute; top: 220px; left: -15px}
+#list2 {position: absolute; top: 320px; left: -15px}
+#pleft2 { position: absolute; top: 290px; left: 10px}
+
